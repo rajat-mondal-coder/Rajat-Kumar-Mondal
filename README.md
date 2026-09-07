@@ -46,13 +46,6 @@ I follow Agile methodologies and deliver **user-focused, enterprise-grade soluti
 - Microservices Architecture
 - RESTful API Design
 
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajat-kumar-mondal&show_icons=true&theme=radical)
-
----
-
 ## 📞 Let's Connect!
 
 - 📧 **Email:** [mondalrajat231@gmail.com](mailto:mondalrajat231@gmail.com)
