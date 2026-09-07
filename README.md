@@ -30,13 +30,13 @@ I follow Agile methodologies and deliver **user-focused, enterprise-grade soluti
 ### 🛠️ Frameworks & Libraries
 - **Frontend:** React.js, Redux Toolkit, Tailwind CSS, Material-UI
 - **Backend:** Node.js + Express.js, FastApi 
-- **ML/AI:** Numpy, Pandas, FastAPI, Scikit-learn, PyTorch
+- **ML/AI:** Numpy, Pandas, Scikit-learn, PyTorch
 
 ### 🗄️ Databases
 - **MongoDB** | **MySQL**
 
 ### 🛠️ Developer Tools
-- **Git** | **GitHub** | **Postman** | **Docker** | **JWT Authentication** | **RBAC**
+- **Git** | **GitHub** | **Postman** 
 
 ### 📚 Core Competencies
 - Data Structures & Algorithms (Java)
